@@ -16,4 +16,4 @@ function solveRectangle(l,b)
     console.log("this statment is after tha call to rec");
 }
 
-solveRectangle(2,5);
+solveRectangle(1,5);
