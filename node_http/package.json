@@ -1,0 +1,15 @@
+{
+  "name": "node_http",
+  "version": "1.0.0",
+  "description": "working on node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index"
+  },
+  "keywords": [
+    "Iamskk"
+  ],
+  "author": "Iamskk",
+  "license": "ISC"
+}
